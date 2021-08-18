@@ -8,7 +8,7 @@ This fitness tracker was created to log exercises completed each day. The user c
 ![image](https://user-images.githubusercontent.com/84876493/129940402-3dca164a-91ac-4275-9c31-1e96f9170199.png)
 
 ## Links
-The site is deployed at: 
-The site is hosted by heroku at:
+The site is deployed at: https://mandrewartha.github.io/fitness-tracker/
+The site is hosted by heroku at:https://fitness-tracking-ma.herokuapp.com/
 
 
